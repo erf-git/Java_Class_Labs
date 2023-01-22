@@ -1,0 +1,16 @@
+Java Problems
+
+For each of the numbered problems:
+- State whether the problem occurs at compile-time or run-time
+- Briefly describe what the problem is in plain English
+
+1. The name of the class does not match the name of the file
+2. Trying to store a String as an int (compile)
+3. Can't divide by 0 (runtime)
+4. y isn't initialized (compile)
+5. If y >= x it will not return anything (runtime)
+6. There is nothing in the array yet to use the .get() (runtime)
+7. "a" is written as a String, not a char (compile)
+8. j isn't initialized (compile)
+9. "0.0" is written as double, not a float (compile)
+10. Index 12 is out of bounds (runtime)
